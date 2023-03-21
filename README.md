@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shoeb Ansari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=1AF5B4627E83A6D1903CFEC25FCB55EE8CAC7D04&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&exph=600&expw=800&q=coding+gif+images&simid=608037180540654410&form=IRPRST&ck=88E93EE9E551F3611CC6EADFA0CEB852&selectedindex=4&ajaxhist=0&ajaxserp=0&vt=0">
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
