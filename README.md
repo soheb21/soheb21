@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning ** NextJs **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-caee7.web.app/](https://portfolio-caee7.web.app/)
 
