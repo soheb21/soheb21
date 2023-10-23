@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-caee7.web.app/](https://portfolio-caee7.web.app/)
 
-- 💬 Ask me about **HTML, CSS, SCSS, JavaScript, Tailwind CSS, Bootstrap, ReactJs, NodeJS, MongoDB, JWT ExpressJS, NextJs**
+- 💬 Ask me about **HTML, CSS, SCSS, JavaScript, Tailwind CSS, Bootstrap, ReactJs, Redux, NodeJS, MongoDB, JWT, ExpressJS, NextJs**
 
 - 📫 How to reach me **shoebashaikh@acpce.ac.in**
 
