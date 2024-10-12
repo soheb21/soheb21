@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** Data Structure and Algorithm **
 
-- 👨‍💻 All of my projects are available at [https://portfolio-caee7.web.app/](https://portfolio-caee7.web.app/)
+- 👨‍💻 All of my projects are available at [www.shoebansari2002.com](https://shoeb-portfolio-20021101.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJs, Redux, NodeJS, MongoDB, JWT, ExpressJS, NextJs**
 
